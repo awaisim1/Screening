@@ -20,4 +20,4 @@ ___
 3. The data structures used during this exercise are totally up to you! Feel free to use dictionaries, maps, lists, objects, and arrays at your own will, as long as the specs of the output are maintained
 4. Concepts like time/space complexity should be accounted for during this exercise
 5. Bonus points are given for clever decisions regarding performance optimization, fast failing, code documentation, and data structure implementations
-6. For this exercise JavaScript is preferred, but if you can make a good case on why another language might be better you are free to do so :)
+
